@@ -1,0 +1,475 @@
+{
+ "dataset": "Codex Reset Ledger",
+ "website": "https://whenresets.net",
+ "counting_rule": "One row per reset that actually took effect. Announcements and confirmations are not double-counted.",
+ "generated_at": "2026-09-13",
+ "total_rows": 58,
+ "resets": 55,
+ "policy_notes": 3,
+ "events": [
+  {
+   "datetime_utc": "2025-09-17T04:02:52Z",
+   "type": "launch",
+   "type_label": "Launch / new model",
+   "description": "We have reset everyone's limits for gpt-5-codex to allow you all to benefit more from it today and as a way to make up for the slowdowns earlier while we were provisioning additional GPUs. We'll continue to add capacity throughout the week to maintain the speed. Enjoy!",
+   "source_url": "https://x.com/thsottiaux/status/1968163721034994139",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2025-11-05T20:19:29Z",
+   "type": "incident",
+   "type_label": "Outage compensation",
+   "description": "Codex outage resolved. We suffered a minor outage for last 45 minutes which turned into a global outage for last 30 minutes, this is now resolved and we have reset the rate limits. Please let me know if you still see issues.",
+   "source_url": "https://x.com/thsottiaux/status/1986166501435711936",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2025-11-22T23:13:56Z",
+   "type": "incident",
+   "type_label": "Outage compensation",
+   "description": "We have reset rate limits for all Codex users to compensate for the unusual high latencies in or near the US in the previous hours. Grateful for the team working hard behind the scenes to keep Codex running 24/7. I do recommend trying out GPT-5.1-Codex-Max too if you haven’t!",
+   "source_url": "https://x.com/thsottiaux/status/1992370994028388670",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2025-12-02T22:49:02Z",
+   "type": "incident",
+   "type_label": "Outage compensation",
+   "description": "We have reset the usage limits for everyone in Codex, which helps us mitigate the issue the fastest and the team will continue to work on the underlying cause. This should propagate to all users over the next 10 mins, enjoy and apologies for the confusion!",
+   "source_url": "https://x.com/thsottiaux/status/1995988609896513743",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2025-12-17T02:18:14Z",
+   "type": "other",
+   "type_label": "Reset",
+   "description": "Didn’t need to do this in a while, but you know the drill. We have reset everyone’s usage limits, enjoy more Codex and apologies for the disruption.",
+   "source_url": "https://x.com/thsottiaux/status/2001114683047317723",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2025-12-19T22:01:37Z",
+   "type": "other",
+   "type_label": "Reset",
+   "description": "We rewrote the underlying system to track and bill usage in Codex and we have reset usage limits in the process. Backfilling is time consuming and it’s more fun to give free usage. Enjoy!",
+   "source_url": "https://x.com/thsottiaux/status/2002137269134819610",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2025-12-25T08:01:03Z",
+   "type": "celebration",
+   "type_label": "Celebration / holiday",
+   "description": "For Codex users, to thank you all for the fun we've had over the last months, our first gift is that we have **reset rate limits and are lifting the usage limits to 2X the usual limits until the 1st of Jan**. Wish you all a merry holiday and lots of coding!! Spread the word 👀",
+   "source_url": "https://x.com/thsottiaux/status/2004100061933064395",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-03-03T01:50:07Z",
+   "type": "incident",
+   "type_label": "Outage compensation",
+   "description": "Codex is back up. We introduced an issue that caused requests to be blocked and rejected as high cyber risk. This was fixed in ~8 mins and we are now back online and fully operational. Team will reset rate limits, that’s been a while. Enjoy one on us.",
+   "source_url": "https://x.com/thsottiaux/status/2028649088594436225",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-03-04T21:30:47Z",
+   "type": "incident",
+   "type_label": "Outage compensation",
+   "description": "We caught an issue that was causing the 2X promotional increase in limits to not be applied to an estimated 9% of plus and pro users for Codex. We have now fixed this issue and are reseting the rate limit for all plus and pro users to compensate. Apologies and thank you for the",
+   "source_url": "https://x.com/thsottiaux/status/2029308599835738218",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-03-08T02:42:13Z",
+   "type": "incident",
+   "type_label": "Outage compensation",
+   "description": "We don’t have evidence of a widespread issue with codex usage being drained faster than it should but there are enough reports and we have reset rate limits for plus & pro subscriptions while we work towards wrapping up our investigation over the coming 1-3 days.",
+   "source_url": "https://x.com/thsottiaux/status/2030474136024400173",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-03-10T03:51:43Z",
+   "type": "incident",
+   "type_label": "Outage compensation",
+   "description": "This codex issue is now fully resolved and stable for the last couple of hours. You have come to expect it, but yes, that means we will be reseting rate limits in a bit. Enjoy.",
+   "source_url": "https://x.com/thsottiaux/status/2031216405266481489",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-03-11T05:38:13Z",
+   "type": "incident",
+   "type_label": "Outage compensation",
+   "description": "OK, Codex is back and stable and we should be good for a while. Reset button pressed, should see it in a bit",
+   "source_url": "https://x.com/thsottiaux/status/2031605592352313567",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-03-27T01:52:28Z",
+   "type": "launch",
+   "type_label": "Launch / new model",
+   "description": "Hello. We have reset Codex usage limits across all plans to let everyone experiment with the magnificent plugins we just launched, and because it had been a while! You can just build unlimited things with Codex. Have fun!",
+   "source_url": "https://x.com/thsottiaux/status/2037346989244096581",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-04-01T07:48:39Z",
+   "type": "celebration",
+   "type_label": "Celebration / holiday",
+   "description": "Our Codex dashboards are showing increased rate of users hitting rate limits and since we don't fully understand why I have made the cautious decision of resetting the usage limits for all plans. Enjoy. I also wanted to celebrate us finding a pocket of fraudulent accounts that",
+   "source_url": "https://x.com/thsottiaux/status/2039248564967424483",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-04-07T23:13:48Z",
+   "type": "milestone",
+   "type_label": "Milestone",
+   "description": "Three million people are now using Codex weekly - up from two million a little under a month ago. Incredible to see the growth. Thank you to all of you and to the ecosystem we’re part of. To celebrate, we’re resetting rate limits so you can keep building, and we’ll reset them",
+   "source_url": "https://x.com/thsottiaux/status/2041655710346572085",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-04-09T17:51:28Z",
+   "type": "launch",
+   "type_label": "Launch / new model",
+   "description": "We did it, say hi to the $100 plan! It should be the sweet spot for a ton of you. It comes with a ton of codex usage. And yes we are resetting the limits again too as I mentioned yesterday. Let’s keep building!",
+   "source_url": "https://x.com/thsottiaux/status/2042299371602264319",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-04-17T00:58:21Z",
+   "type": "launch",
+   "type_label": "Launch / new model",
+   "description": "Hi! To celebrate its 1-year anniversary, I have allowed Codex to reset its own rate limits across all plans. Enjoy all the new features.",
+   "source_url": "https://x.com/thsottiaux/status/2044943514832871564",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-04-20T23:15:21Z",
+   "type": "incident",
+   "type_label": "Outage compensation",
+   "description": "Codex incident is mitigated, seeing recovery. Lasted about 10 mins, Codex itself helped with the remediation, but ultimately the insight came from a human this time. Apologies for the disruption and rate limit reset incoming.",
+   "source_url": "https://x.com/thsottiaux/status/2046367145588916687",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-04-28T05:28:43Z",
+   "type": "launch",
+   "type_label": "Launch / new model",
+   "description": "Don't just reset Codex rate limits for fun, it costs money. Don't just reset Codex rate limits for fun, it costs money. ... but the vibes are good ... I have reset Codex rate limits for ALL paid plans to celebrate a good week and allow everyone to build more with GPT-5.5. Enjoy",
+   "source_url": "https://x.com/thsottiaux/status/2048997818673537399",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-05-16T17:51:03Z",
+   "type": "celebration",
+   "type_label": "Celebration / holiday",
+   "description": "Codex usage limits have now been reset across all paid plans. Enjoy the weekend!",
+   "source_url": "https://x.com/thsottiaux/status/2055707616605835333",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-05-23T20:14:35Z",
+   "type": "incident",
+   "type_label": "Outage compensation",
+   "description": "Some of you noticed limits drained faster in Codex, we root caused it to an optimization that we rolled back that had an impact on cache hit rates when compacting across long running sessions. We fixed this and have now reset usage limits for all accounts. Enjoy the weekend.",
+   "source_url": "https://x.com/thsottiaux/status/2058280452851638313",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-05-31T15:25:06Z",
+   "type": "other",
+   "type_label": "Reset",
+   "description": "The Codex usage limits have been reset for all paid ChatGPT subscriptions. You should be back to 100% weekly and 100% hourly limits. Let the tokens do incredible things today and have fun.",
+   "source_url": "https://x.com/thsottiaux/status/2061106703446450392",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-06-04T00:25:58Z",
+   "type": "incident",
+   "type_label": "Outage compensation",
+   "description": "Hi. Over the last 24 hours we had three separate small incidents that affected Codex reliability. Those are three too many and we are taking active steps for them to not reproduce. I have reset usage limits for Codex across all paid plans. May the tokens flow again.",
+   "source_url": "https://x.com/thsottiaux/status/2062329981548802523",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-06-18T00:10:10Z",
+   "type": "other",
+   "type_label": "Reset",
+   "description": "Dearest gentle codexer. We did a sneaky double reset. Not only do you get a full reset on us. But you are also getting one into the reset bank to use at your own leisure. Enjoy",
+   "source_url": "https://x.com/thsottiaux/status/2067399435009622521",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-06-26T23:39:48Z",
+   "type": "other",
+   "type_label": "Reset",
+   "description": "We are giving all Codex users a usage reset on the house. Should be showing in your accounts in the next few hours. We have applied some mitigations, but our investigation hasn't shown users being impacted at large. We are continuing to monitor the situation.",
+   "source_url": "https://x.com/thsottiaux/status/2070653282440405046",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-06-28T23:54:07Z",
+   "type": "banked",
+   "type_label": "Banked / carried over",
+   "description": "As we are still investigating, I have reset everyone's Codex usage limits. This is a hard reset given some users had stacked up to three banked resets already that they can apply on their own schedule. Funnily enough, this week at OpenAI is called the RESET week, which is meant",
+   "source_url": "https://x.com/thsottiaux/status/2071381664853319742",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-06-29T23:39:41Z",
+   "type": "incident",
+   "type_label": "Outage compensation",
+   "description": "Codex usage limits will be fully reset again in the next hour and we will credit one additional reset into your bank for your own usage over the next 24 hours. We investigated reports that Codex usage was being consumed faster than expected. There wasn't one central issue, but a",
+   "source_url": "https://x.com/thsottiaux/status/2071740419030053227",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-07-09T21:24:11Z",
+   "type": "celebration",
+   "type_label": "Celebration / holiday",
+   "description": "Enjoy a full reset of your usage limits for ChatGPT Work and Codex. Propagating in the next hour. @_rajanagarwal just joined to work on model research and push on coding capabilities. You can thank him for pressing the button today.",
+   "source_url": "https://x.com/thsottiaux/status/2075330198887940337",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-07-10T17:59:43Z",
+   "type": "other",
+   "type_label": "Reset",
+   "description": "Hello beautiful people! We have reset usage limits across Codex and ChatGPT Work. And another one will come later in the day. Rejoice. Now that I have your attention, a quick update on ChatGPT Work, Codex and all the updates we shared yesterday. We’ve spent the last 24 hours",
+   "source_url": "https://x.com/thsottiaux/status/2075641131002700120",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-07-11T05:54:25Z",
+   "type": "celebration",
+   "type_label": "Celebration / holiday",
+   "description": "Introducing... another usage limit reset for all our ChatGPT Work and Codex users. Should land over next 30 minutes. Hope you have an awesome weekend. Thank you for pushing our systems to the absolute limit, we have never seen traffic increase so quickly. Keep the feedback",
+   "source_url": "https://x.com/thsottiaux/status/2075820987833274448",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-07-12T00:00:00Z",
+   "type": "policy",
+   "type_label": "Policy change",
+   "description": "OpenAI lifts the 5-hour rolling limit for Codex — temporarily, as it turned out.",
+   "source_url": null,
+   "source_platform": null
+  },
+  {
+   "datetime_utc": "2026-07-12T21:28:59Z",
+   "type": "banked",
+   "type_label": "Banked / carried over",
+   "description": "Added a banked reset to 500k users of ChatGPT Work and Codex. What’s been happening: - Just released the ability to use a banked reset from web and mobile. Before today you could only do it in the desktop app - Had an issue where less than 10% of users who used a banked reset",
+   "source_url": "https://x.com/thsottiaux/status/2076418567143408112",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-07-13T18:29:31Z",
+   "type": "banked",
+   "type_label": "Banked / carried over",
+   "description": "Thank you to the 7M active users who are now using Codex and ChatGPT Work. We have added a banked reset to everyone's account to celebrate the milestone. You can apply the reset in the desktop app or on web and it will replenish the weekly usage for you. Have fun out there.",
+   "source_url": "https://x.com/thsottiaux/status/2076735790567338203",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-07-14T19:34:54Z",
+   "type": "milestone",
+   "type_label": "Milestone",
+   "description": "Hello. We have reached 8M active users across Codex and ChatGPT Work. We are once again resetting the usage limits for all. And we continue to not have the 5h rate limit as well, allowing everyone to explore the boundaries of GPT-5.6 Sol and discover how ambitious you can be.",
+   "source_url": "https://x.com/thsottiaux/status/2077114635308986427",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-07-16T04:14:09Z",
+   "type": "milestone",
+   "type_label": "Milestone",
+   "description": "Another reset for our Codex and ChatGPT Work users. Actually hit 9M active users way earlier today, but then got distracted by the approximately millions of things the team is doing to keep the systems up and reliable. Should have that sweet 100% weekly usage limit back in a few",
+   "source_url": "https://x.com/thsottiaux/status/2077607697487188198",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-07-18T03:28:22Z",
+   "type": "celebration",
+   "type_label": "Celebration / holiday",
+   "description": "Oops... I did it again. Enjoy reset usage limits for all paid users for Codex and ChatGPT Work. Super grateful for an incredible team who is iterating at lightspeed and keeping the infra up as we scale faster than ever. Enjoy the weekend!",
+   "source_url": "https://x.com/thsottiaux/status/2078320950488297917",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-07-21T16:47:15Z",
+   "type": "milestone",
+   "type_label": "Milestone",
+   "description": "10M! New day, new usage reset for paid users of Codex and ChatGPT Work. Lands in the next hour. Enjoy.",
+   "source_url": "https://x.com/thsottiaux/status/2079609157934886975",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-07-25T19:17:12Z",
+   "type": "incident",
+   "type_label": "Outage compensation",
+   "description": "We have reset usage limits for all Codex and ChatGPT Work users. Last night around 2am to 4am we suffered an almost global outage. All well and recovered, but you know what comes next. We learn. We reset. Enjoy.",
+   "source_url": "https://x.com/thsottiaux/status/2081096447718723984",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-07-28T03:09:23Z",
+   "type": "other",
+   "type_label": "Reset",
+   "description": "Back at the laptop. The usage limits have been reset for all paid users of Codex and ChatGPT Work. Weeeeeeeee. It's a good day!",
+   "source_url": "https://x.com/thsottiaux/status/2081940052154933696",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-07-29T04:09:02Z",
+   "type": "launch",
+   "type_label": "Launch / new model",
+   "description": "Hello people of Sol! I've reset usage limits for all ChatGPT Work and Codex users. Together with that, a quick update on GPT-5.6 Sol usage limits. Over the past few weeks, many of you have told us that Sol was using your Codex limits faster than expected. To be clear, we have",
+   "source_url": "https://x.com/thsottiaux/status/2082317452755751098",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-08-01T03:32:37Z",
+   "type": "launch",
+   "type_label": "Launch / new model",
+   "description": "To celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy.",
+   "source_url": "https://x.com/thsottiaux/status/2083395449814229287",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-08-08T20:29:22Z",
+   "type": "launch",
+   "type_label": "Launch / new model",
+   "description": "That's right, GPT-5.6 Sol is awesome and can be used pretty much anywhere, including in the CC harness. To celebrate this, together with the fact that I'm not going anywhere... I have reset usage limits for all paid users of ChatGPT Work and Codex. Have fun out there!",
+   "source_url": "https://x.com/thsottiaux/status/2086188036493344823",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-08-11T00:27:44Z",
+   "type": "other",
+   "type_label": "Reset",
+   "description": "Hi. It is done.",
+   "source_url": "https://x.com/thsottiaux/status/2086972802457063486",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-08-13T01:01:37Z",
+   "type": "milestone",
+   "type_label": "Milestone",
+   "description": "Old news actually from a bunch of days ago, but crossed that 15M. Enjoy a nice reset everyone. Landing in the next hour or so, go /fast.",
+   "source_url": "https://x.com/thsottiaux/status/2087706104814023111",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-08-21T11:43:19Z",
+   "type": "banked",
+   "type_label": "Banked / carried over",
+   "description": "It's me again. I come bearing great news. First of all, we have hit 20M active users for Codex some time this week. Second of all, this is cause for celebration and during the day we will credit every Codex and ChatGPT Work user with a BANKED reset that you can use at your own",
+   "source_url": "https://x.com/thsottiaux/status/2090766694897619318",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-08-24T00:46:51Z",
+   "type": "incident",
+   "type_label": "Outage compensation",
+   "description": "Good Sunday. Reset has been propagated to accounts and we landed some fixes to usage for things mentioned yesterday as issues we found. You should feel a positive difference. More to come tomorrow and will keep communicating.",
+   "source_url": "https://x.com/thsottiaux/status/2091688655828246890",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-08-25T14:30:00Z",
+   "type": "other",
+   "type_label": "Reset",
+   "description": "@dtzy_88 Ah yeah, forgot to say",
+   "source_url": "https://x.com/thsottiaux/status/2092311059197808936",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-08-26T00:00:00Z",
+   "type": "policy",
+   "type_label": "Policy change",
+   "description": "The 5-hour rolling limit returns for Plus users.",
+   "source_url": null,
+   "source_platform": null
+  },
+  {
+   "datetime_utc": "2026-08-27T16:35:05Z",
+   "type": "other",
+   "type_label": "Reset",
+   "description": "Never slept better and feeling reseted. Brand new me and brand new usage for all ChatGPT Work and Codex users. Regaining my youth one button press at a time. Happy Thursday",
+   "source_url": "https://x.com/thsottiaux/status/2093014447833116908",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-08-29T20:43:34Z",
+   "type": "other",
+   "type_label": "Reset",
+   "description": "We are reseting usage for all paid users of Codex and ChatGPT Work. Please continue reading for an update on Codex usage limits. The team has been working around the clock, going through thousands of reports and shipping fixes. Depending on how you use Codex, you should see your usage go between 10% and 50% further than before. We really went with a fine comb, with many uncovered small things bein",
+   "source_url": "https://x.com/thsottiaux/status/2093801758665715784",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-08-31T02:29:25Z",
+   "type": "milestone",
+   "type_label": "Milestone",
+   "description": "What I wanted to say yesterday is that we hit 25M active users and to celebrate we have now reset usage for all paid subscriptions for ChatGPT Work and Codex. See you see for more news from The Reset Company.",
+   "source_url": "https://x.com/thsottiaux/status/2094251180121854309",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-09-03T23:12:09Z",
+   "type": "banked",
+   "type_label": "Banked / carried over",
+   "description": "We will give one banked reset for every day you don't have access to Astra on your paid ChatGPT plan, starting today. Team is moving mountains to give access as fast as we can. First one will land in ~ 3 hours. There is still time to create your account if you don't have one.",
+   "source_url": "https://x.com/thsottiaux/status/2095651088502591861",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-09-04T20:57:00Z",
+   "type": "banked",
+   "type_label": "Banked / carried over",
+   "description": "Some Plus and Business users won't yet get access to Astra today, we've got you covered with a banked reset. Lands by end of day and if you create your account by 8pm PT…",
+   "source_url": "https://x.com/thsottiaux/status/2095979536043401428",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-09-05T00:39:25Z",
+   "type": "banked",
+   "type_label": "Banked / carried over",
+   "description": "Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really, but it’s ok!)… we will do the full banked reset today too for all Plus, Pro and Business users. Lands end of day. Happy Astra day and enjoy a phenomenal weekend. PS: If you create the account or upgrade before 8pm PT you will get it too. Still time!",
+   "source_url": "https://x.com/thsottiaux/status/2096035437299237298",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-09-06T21:51:00Z",
+   "type": "policy",
+   "type_label": "Policy change",
+   "description": "Astra long-tail boost: more usage for power users of Astra logged in with a ChatGPT account — a pure win, no quality change.",
+   "source_url": "https://x.com/thsottiaux/status/2096717905614524491",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-09-08T01:56:57Z",
+   "type": "launch",
+   "type_label": "Launch / new model",
+   "description": "All reset for everyone. Enjoy the week with Astra.",
+   "source_url": "https://x.com/thsottiaux/status/2097174560412246215",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-09-09T18:23:00Z",
+   "type": "banked",
+   "type_label": "Banked / carried over",
+   "description": "There was a bit of a kerfuffle this morning with some banked resets not fully applying when used in ChatGPT Work and Codex. Everyone who used one in the affected time window is…",
+   "source_url": "https://x.com/thsottiaux/status/2097752790177370535",
+   "source_platform": "X"
+  },
+  {
+   "datetime_utc": "2026-09-12T03:20:00Z",
+   "type": "incident",
+   "type_label": "Outage compensation",
+   "description": "Hi Astra users. A reset and a quick update on quality issues that have been posted around. Working with some of you, we have found and fixed the following issues…",
+   "source_url": "https://x.com/thsottiaux/status/2098612714704891959",
+   "source_platform": "X"
+  }
+ ]
+}
