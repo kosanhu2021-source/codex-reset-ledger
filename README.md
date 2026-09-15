@@ -33,6 +33,17 @@ Codex usage limits get reset for everyone far more often than most users notice 
 
 **Columns:** `date_utc`, `time_utc`, `type`, `description`, `source_url`, `source_platform`
 
+## Live API
+
+The same rows are served straight from the site, so you do not need a git client:
+
+- **<https://whenresets.net/ledger.json>** — full ledger as JSON (schema `whenresets.ledger/1`, 58 rows)
+- **<https://whenresets.net/ledger.csv>** — the same rows as CSV
+
+Both are CORS-open (`Access-Control-Allow-Origin: *`), need no key, and are regenerated whenever the site rebuilds.
+
+Each event is also documented by hand at **[whenresets.net/codex](https://whenresets.net/codex)** — what a reset card is, all 8 issuances, what triggered each class of reset, and the change log of the 5-hour and weekly limits, with every claim linked to its source post.
+
 ## Event types
 
 | type | meaning | count |
